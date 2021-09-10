@@ -20,8 +20,8 @@ object Form1: TForm1
     Height = 51
     Caption = 
       'This app demonstrates the Windows 11 possible application window' +
-      ' rounded corner settings. This settting will have no effect on W' +
-      'indows 10 or older.'
+      ' rounded corner settings. This setting will have no effect on Wi' +
+      'ndows 10 or older.'
     WordWrap = True
   end
   object Button1: TButton
